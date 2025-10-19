@@ -3,4 +3,4 @@
 
 - **Faculdade:** Fatec Ogari de Castro Pacheco (Itapira)
 - **Curso:** Desenvolvimento de Software Multiplataforma
-- **Aluno:** [] (https://github.com/Fellipe-Eduardo-Franco)
+- **Aluno:** Fellipe Eduardo Franco - Perfil no Github: [@Fellipe-Eduardo-Franco] (https://github.com/Fellipe-Eduardo-Franco)
